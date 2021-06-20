@@ -1,5 +1,6 @@
 import { Place } from "./store/models";
-export const data: Place[] = [
+
+export let data: Place[] = [
   {
     title: "Clarin APi",
     description:
