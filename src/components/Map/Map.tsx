@@ -15,7 +15,7 @@ const Map = ({
   togglePreview,
   setPlaceForPreview,
 }: any) => {
-  const defaultPosition: LatLngExpression = [51.107883, 17.038538]; // Paris position
+  const defaultPosition: LatLngExpression = [51.107883, 17.038538]; // Wroclaw position
   const [polyLineProps, setPolyLineProps] = useState([]);
 
   useEffect(() => {
