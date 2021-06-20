@@ -3,7 +3,7 @@ export const data: Place[] = [
   {
     title: "Clarin APi",
     description:
-      "The Eiffel Tower (/ˈaɪfəl/ EYE-fəl; French: tour Eiffel [tuʁ‿ɛfɛl]) is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+      "Usługa do przetwarzania tekstu: tager, parser, rozpoznawanie jednostek referencyjnych (ner). Wykorzystuje narzędzie spaCy",
     picture:
       "http://clarin-pl.eu/wp-content/uploads/2020/11/Logo-eps-long-CLARIN-sub.png",
     position: [48.858222, 2.2945],
